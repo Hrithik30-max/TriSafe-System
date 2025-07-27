@@ -22,7 +22,7 @@ A real-time, intelligent IoT system designed to **protect sanitation workers** f
 
 The system architecture integrates multiple gas, motion, and thermal sensors with an **Arduino Nano** microcontroller, interfaced with **ESP8266** for wireless telemetry.
 
-![Hardware Wiring](03d39b7e-bce1-4d63-bfd5-ed5ba56ffb6e.png)
+![Hardware Wiring](BD_IoTEnsuringSafety.png)
 
 **Sensors Integrated:**
 - 🧪 MQ2, MQ6, MQ135 (Gas detection)
